@@ -15,3 +15,12 @@
 <img width="590" alt="Screenshot 2022-01-15 at 7 40 38 PM" src="https://user-images.githubusercontent.com/73702692/149642803-9e1cb23e-da45-4593-85aa-5f00f0103923.png">
 
 # Paintings
+
+![2](https://user-images.githubusercontent.com/73702692/149646082-6f44592e-f021-4b7d-b316-2b1917e736b5.JPG)
+![3](https://user-images.githubusercontent.com/73702692/149646086-3cb19012-b638-4d0a-9851-b623243a918f.jpg)
+![4](https://user-images.githubusercontent.com/73702692/149646088-0bb6a051-6557-4100-812f-a7d8200be221.jpg)
+![5](https://user-images.githubusercontent.com/73702692/149646090-079d6997-c3f7-4a3e-bb7b-d4d7ab978df4.jpg)
+![6](https://user-images.githubusercontent.com/73702692/149646092-109da43b-c017-4181-b05f-1fcf181e1911.jpg)
+![7](https://user-images.githubusercontent.com/73702692/149646093-a2e067a8-e930-445d-a27d-7c6e0d79832b.JPG)
+![Music Box](https://user-images.githubusercontent.com/73702692/149646115-393bcf67-c1d6-46a3-a07c-c0ebb0b9421f.jpg)
+![Music Box Digital](https://user-images.githubusercontent.com/73702692/149646119-28bb3f34-dcc5-4597-b490-f56ee00ea11b.JPG)
