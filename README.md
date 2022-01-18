@@ -11,15 +11,6 @@
 <img width="797" alt="Screenshot 2021-09-07 at 11 48 14 PM" src="https://user-images.githubusercontent.com/73702692/149642759-981cfdd0-ad7b-4ce3-a9dc-ffc4b49166f3.png">
 
 
-# Selected Paintings
-
-![2](https://user-images.githubusercontent.com/73702692/149646082-6f44592e-f021-4b7d-b316-2b1917e736b5.JPG)
-
-![3](https://user-images.githubusercontent.com/73702692/149646086-3cb19012-b638-4d0a-9851-b623243a918f.jpg)
-
-![4](https://user-images.githubusercontent.com/73702692/149646088-0bb6a051-6557-4100-812f-a7d8200be221.jpg)
-
-
 # Product Design
 
 ![Music Box](https://user-images.githubusercontent.com/73702692/149646115-393bcf67-c1d6-46a3-a07c-c0ebb0b9421f.jpg)
